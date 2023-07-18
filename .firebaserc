@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ex01-pokemon": {
+      "hosting": {
+        "ex01": [
+          "ex01-pokemon"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ex01-pokemon"
+  }
+}

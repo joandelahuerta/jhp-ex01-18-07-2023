@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "ex01",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

@@ -1,14 +1,9 @@
-/* styles.css */
-
-/* Establecer el fondo negro para todo el cuerpo del documento */
 body {
     background-color: black;
-    color: white; /* Establecer el color de texto en blanco para una mejor legibilidad */
-  }
-  
-  /* Opcional: Ajustar estilos para ciertos elementos específicos, por ejemplo, la barra de navegación */
-  .navbar {
-    background-color: #333; /* Establecer el color de fondo para la barra de navegación */
-    color: white; /* Establecer el color de texto en blanco para una mejor legibilidad */
-  }
-  
+    color: white;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+}
